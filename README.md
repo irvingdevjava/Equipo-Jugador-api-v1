@@ -47,4 +47,4 @@ Contribución
 Este proyecto es una pequeña API creada por mí, pero siéntete libre de utilizar el código como desees. No soy responsable de los posibles efectos secundarios, como la adicción al código elegante.
 
 Licencia
-Este proyecto está bajo la licencia MIT. Puedes hacer lo que quieras con él, solo no me culpes si algo sale mal.
+Este proyecto está bajo la licencia MIT. 
